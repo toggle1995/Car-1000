@@ -12,12 +12,12 @@ The Car-1000 dataset is distinguished by its scale and diversity:
 
 - **Categories**: 1,000 distinct car models.
 - **Images**: 140,267 high-quality images.
-- **Automakers**: Vehicles from 165 different automakers.
+- **Automakers**: Vehicles from 166 different automakers.
 
 ### File Structure
 
 ```text
-Car-1000/
+Car-1000-dataset/
 ├─ all_images/
 │  ├─ 0000/
 │  │  ├─ 0000_0001.jpg
